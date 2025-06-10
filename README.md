@@ -1,5 +1,5 @@
 # 🧸 Huggable
-Huggable is a free and open-source project inspired by Lovable, designed as a fun and educational experiment in low-code app development.
+Huggable is a free and open-source project inspired by Lovable, designed as a fun and educational experiment in Agentic app development.
 
 It’s a command-line tool powered by Claude 4 Opus (from Anthropic) that instantly transforms a short text description into a visually appealing, modern web application. The result is a complete, standalone HTML file—fully styled with CSS and JavaScript—without the need for frameworks or boilerplate code.
 
